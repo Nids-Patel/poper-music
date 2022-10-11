@@ -1,0 +1,64 @@
+.Admin{
+    color: #fff;
+   
+    background-color: #dcdfe3;
+}
+.Admin{
+   
+     display: flex;
+    flex-direction: column;
+    
+}
+.navContainer{
+    position: relative;
+    margin: 5px 5px;
+    width: 15%;
+    padding: 15px 15px;
+    border-radius: 30px;
+    height: 617px ;
+    
+    background-color: #252d3a;
+}
+.MainContainer{
+    width: 100%;
+    height: 95%;
+    
+}
+.fillter{
+    position: absolute;
+    z-index: -50px;
+    width: 400px;
+    filter: blur(155px);
+    left: 40%;
+    margin-top: -10%;
+    height: 300px;
+    background-color: #252d3a;
+    border-radius: 50%;
+  }
+  .fillter1{
+    position: absolute;
+    z-index: -50px;
+    width: 300px;
+    filter: blur(130px);
+    left: 10%;
+    margin-top: 25%;
+    height: 300px;
+    background-color: #252d3a;
+    border-radius: 50%;
+  }
+  .fillter2{
+    position: absolute;
+    z-index: -50px;
+    width: 400px;
+    filter: blur(160px);
+    left: 70%;
+    margin-top: 26%;
+    height: 300px;
+    background-color: #252d3a;
+    border-radius: 50%;
+  }
+  .container{
+    display: flex;
+    flex-direction: row ;
+  
+  }

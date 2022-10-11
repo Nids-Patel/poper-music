@@ -1,0 +1,59 @@
+    .ArtistComponent{
+        overflow-x: scroll;
+        overflow-y: hidden;
+        
+    }
+    .Dash{
+        font-size: 30px;
+        font-family: 'Inter', sans-serif;
+        ;
+        font-weight: 600;
+    }
+    .Dashboard{
+        margin-top: 17px;
+        margin-left: 10px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+    .searchIT{
+        margin-left: 350px;
+        border: 1px solid #252d3a;
+        padding-left: 25px;
+        height: 25px;
+        margin-top: 5px;
+        padding-right: 2px;
+        border-radius: 5px;
+    }
+    .SearchAny{
+        height: 40;
+        width: 300px;
+        font-weight: 600;
+        font-size: 15px;
+        border: none;
+        margin-top: 3px;
+        outline: none;
+    }
+    #searchMe{
+       
+        margin-left: -20px;
+        
+        margin-top: 4px;
+    }
+    
+    .chats{
+        font-size: 27px;
+        color: #252d3a;
+        margin-left: 180px;
+        margin-top: 5px;
+        cursor: pointer;
+    }
+    .chats1{
+        margin-left: 10px;
+        cursor: pointer;
+        font-size: 32px;
+    }
+  .holderPost{
+    display: flex;
+    flex-direction: row;
+  }

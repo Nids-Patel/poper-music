@@ -1,0 +1,13 @@
+.Maincom{
+    color: #252d3a;
+    background: rgba(255, 255, 255,0.1);
+    backdrop-filter: saturate(180%) blur(5px);
+    width: 103.5%;
+    overflow-x: hidden;
+  overflow-y: auto;
+
+    height: 100vh;
+}
+::-webkit-scrollbar{
+    display: none;
+}

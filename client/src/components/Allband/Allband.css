@@ -1,0 +1,163 @@
+.allartist{
+    display: flex;
+    flex-direction: row;
+   margin-top: -20px;
+}
+.allCon{
+    width: 69%;
+    margin: 7px;
+    
+        display: flex;
+        overflow: auto;
+        flex-direction: column;
+        justify-content: center;
+    
+    height: 84vh;
+    
+    ;
+}
+.profileCon{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.A-container{
+    font-size: 17px;
+   
+    width: 95%;
+    justify-content: space-between;
+    margin-top: 5px;
+    border-radius: 10px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    color: white;
+    background: rgba(37, 45, 58,0.8);
+    backdrop-filter: saturate(180%) blur(5px);
+}
+.A-container:hover{
+    box-shadow: 0 0 10px #252d3a;
+}
+.scrolldiv{
+    overflow: auto;
+}
+.profileCon{
+    width: 23%;
+    border-radius: 16px;
+   overflow: hidden;
+    position: sticky;
+    margin: 10px;
+    background-color: #252d3a;
+    height:84vh;
+}
+.header{
+    font-size: 30px;
+    font-weight: 600;
+}
+.Noti{
+    margin-left: 750px;
+}
+.dashboard{
+    display: flex;
+    align-items: center;
+    margin-top: -20px;
+}
+.userPhoto{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+.UserName{
+    
+    font-weight: 600;
+}
+.Location{
+    
+    font-size: 17px;
+    display: flex;
+    align-items: center;
+}
+
+.Button{
+    margin-left: 10px;
+    background-color: white;
+    padding: 3px 7px;
+    transition: all 0.5s ease;
+    border: 1px solid white;
+    color: #252d32;
+    border-radius: 7px;
+    cursor: pointer;
+    margin-right: 7px;
+}
+.Button:hover{
+    background-color: gray;
+    color: white;
+}
+.filler1{
+    color: white;
+    margin-left: 15px;
+    cursor: pointer;
+    font-size: 15px;
+     margin-top: -5px;
+     background-color: #2f3b4e;
+     border-top-left-radius: 5px;
+border-bottom-left-radius: 5px
+}
+.fill{
+    font-size: 20px;
+    padding-top: 2px;
+    padding: 2px;
+    padding-left: 8px;
+    
+    
+}
+
+#lableForF{
+position: absolute;
+margin-top: 0px;
+background-color: #252d3a;
+padding: 4px;
+padding-right: 8px;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+}
+/* Background filter for Artist Profile Container  */
+
+.fii{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: lightgray;
+    position: absolute;
+    z-index: -100;
+    margin-left: -200px;
+    margin-top: -60px;
+    overflow: hidden;
+    filter: blur(40px);
+}
+.fiil{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: lightgray;
+    position: absolute;
+    z-index: -100;
+    margin-left: 200px;
+    margin-top: 200px;
+    overflow: hidden;
+    filter: blur(50px);
+}
+.fiil1{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: lightgray;
+    position: absolute;
+    z-index: -100;
+    margin-left: -200px;
+    margin-top: 450px;
+    overflow: hidden;
+    filter: blur(50px);
+}

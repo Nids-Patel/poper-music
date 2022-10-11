@@ -1,0 +1,39 @@
+::-webkit-scrollbar{
+    background-color: #252d32;
+    border-radius: 10px;
+width: 5px;
+}
+.Artist{
+    padding: 10px 5px;
+    width:100%;
+  
+}
+
+.dashboard{
+    height: 100px;
+    padding-top: 10px;
+    display: flex;
+  
+}
+#dash{
+    font-size: 30px;
+    font-weight: 600;
+}
+.noti{
+    margin-left: 950px;
+    cursor: pointer;
+    color: #455266;
+    font-size: 25px;
+    margin-right: 10px;
+}
+.chat{
+    color: #455266;
+    cursor: pointer;
+    font-size: 25px;
+}
+#latest{
+    width: 87%;
+    margin-left: 35px;
+    color: white;
+    margin-top: 30px;
+}

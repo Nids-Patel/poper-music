@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+.Main{
+    font-family: 'Varela Round', sans-serif;
+    width: 50%;
+    color: #fff;
+    margin: 18px 0;
+}
+.topnav{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+.less{
+    background-color: #252d3a;
+    padding: 10px 12px;
+    border-radius: 50%;
+    font-size: 15px;
+    
+   
+}
+.greater{
+    margin-left: 5px;
+    color: #828695;
+}
+#search{
+    width: 70%;
+    font-family: 'Varela Round', sans-serif;
+    margin-left: 10%;
+    padding-left: 20px;
+    height: 30px;
+    background-color: #252d3a;
+    outline: none;
+    border: none;
+    border-radius: 16px;
+}
+#icons{
+    background-color: #252d3a;
+    padding: 10px 10px;
+    margin-left: 5px;
+    border-radius: 50%;
+}
+.banner{
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='700' height='350' preserveAspectRatio='none' viewBox='0 0 700 350'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1122%26quot%3b)' fill='none'%3e%3crect width='700' height='350' x='0' y='0' fill='rgba(255%2c 79%2c 89%2c 1)'%3e%3c/rect%3e%3cpath d='M0%2c284.491C55.752%2c291.067%2c117.454%2c286.158%2c161.69%2c251.594C205.039%2c217.723%2c207.424%2c155.202%2c229.791%2c104.942C251.888%2c55.289%2c288.2%2c12.153%2c292.362%2c-42.035C297.121%2c-103.998%2c302.998%2c-181.55%2c254.811%2c-220.795C205.084%2c-261.295%2c129.549%2c-214.988%2c66.383%2c-226.081C13.416%2c-235.383%2c-28.432%2c-280.199%2c-82.21%2c-279.981C-145.349%2c-279.725%2c-212.706%2c-267.275%2c-259.389%2c-224.762C-307.813%2c-180.663%2c-333.594%2c-113.814%2c-336.523%2c-48.385C-339.331%2c14.336%2c-312.65%2c75.324%2c-275.074%2c125.622C-241.779%2c170.188%2c-187.077%2c188.316%2c-138.904%2c216.138C-93.294%2c242.48%2c-52.307%2c278.321%2c0%2c284.491' fill='%23ff3843'%3e%3c/path%3e%3cpath d='M700 662.1990000000001C757.429 660.031 794.49 602.431 838.3969999999999 565.35 876.508 533.164 910.085 499.544 939.927 459.571 977.4300000000001 409.336 1043.0140000000001 364.007 1035.1390000000001 301.814 1027.289 239.813 946.124 219.384 903.705 173.489 863.131 129.59 847.585 59.03800000000001 791.538 38.250999999999976 735.087 17.31400000000002 670.019 38.70600000000002 616.943 67.132 569.14 92.73399999999998 547.595 146.193 512.6179999999999 187.632 478.207 228.4 421.148 256.01300000000003 413.013 308.738 404.872 361.503 446.459 407.198 471.464 454.369 494.959 498.692 517.607 542.309 554.72 576.06 597.233 614.721 642.578 664.367 700 662.1990000000001' fill='%23ff666f'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1122'%3e%3crect width='700' height='350' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+    width: 100%;
+    height: 350px;
+    margin: 15px 5px;
+    border-radius: 35px
+}
+.playlist{
+    font-size: 15px;
+    color: #fff;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.likes{
+    font-size: 60px;
+    font-weight: 500;
+    margin-top: 70px;
+    position: absolute;
+    margin-left: 30px;
+    font-family: 'Roboto', sans-serif;  
+}
+.musicName{
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 30px;
+    font-size: 13px;
+    color: #cccdcf;
+}
+#musicIcon{
+    margin-right: 10px;
+    font-size: 15px;
+}
+.search-song{
+   margin-left: 5px;
+    background-color: #252d3a;
+    padding: 10px;
+    margin-right: 5px;
+    cursor: pointer;
+    border-radius: 50%;
+}

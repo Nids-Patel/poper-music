@@ -1,0 +1,121 @@
+
+.profile {
+    align-items: flex-start;
+    display: flex;
+    font-family: 'Inter', sans-serif;
+    border-radius: 16px;
+    width: 97%;
+    position: relative;
+    margin-top: 10px;
+    cursor: pointer;
+    margin-top: 20px;
+   padding: 5px 5px;
+   margin-left: 5px;
+   margin-bottom: 40px;
+  }
+  
+  
+  .profileImg {
+    width: 50px;
+    border-radius: 16px;
+    height: 50px;
+    box-shadow: 0 0 15px #fff;
+  }
+  .profileName {
+    color: #fff;
+    margin-top: 10px;
+    
+    font-size: 15px;
+    font-weight: 600  ;
+    margin-left: 15px;
+  }
+  .profileEdit{
+      position: absolute;
+      margin-top: 32px;
+      margin-left: 70px;
+      font-size: 9px;
+      color: #D9D9D9;
+  }
+  .icon{
+      margin-left: 190px;
+      margin-top: 14px;
+      font-size: 20px;
+      color:white;
+      font-size: 17px;
+      position: absolute;
+  }
+  ul{
+      list-style-type: none;
+      text-align: left;
+  }
+  .navLi{
+    width: 90%;
+    font-family: 'Inter', sans-serif;
+     color: #fff;
+     margin-top: 7px;
+     font-weight: 600;
+      height: 35px;
+      color: black;
+      padding-left: 10px;
+      border-radius: 10px;
+      display: flex;
+      font-size: 16px;
+      background-color: #D9D9D9;
+      align-items: center;
+      flex-direction: row;
+      
+  }
+  .navLi-Out{
+    width: 90%;
+     color: #fff;
+      padding: 7px 0;
+      padding-left: 10px;
+      border-radius: 10px;
+      display: flex;    
+      
+      margin-left: 1px;
+  }
+  .navLi:nth-child(1){
+      margin-top: 100px;    
+      padding: 10px 0;
+      
+      padding-left: 10px;
+      border-radius: 16px;
+  }
+  .navLi:nth-of-type(2){
+    margin-top: 70px;
+  }
+  .navLi:hover{
+      box-shadow:0 0 10px #b5b5b5;
+  }
+  .nav-i{
+    margin-right: 20px;
+    margin-left: 10px;
+  }
+  .navLi:nth-of-type(7){
+    margin-top: 135px;
+    box-shadow:0 0 8px #fff;
+  }
+  
+  .input{
+    color: #fff;
+    display: flex;
+    align-items: center;
+    padding-left: 40px;
+    outline: none;
+    border: none;
+    height: 30px;
+   background-color: rgba(202, 219, 235, 0.2);
+    width: 160px;
+    margin-left: -10px ;
+    border-radius: 10px;
+  }
+  
+  .navLi:nth-child(1):hover{
+    box-shadow: none;
+  }
+  #search-i{
+    position:absolute;
+    margin-top: 8px;
+    
+  }

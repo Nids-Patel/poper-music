@@ -1,0 +1,121 @@
+.Artistinfo{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    margin-left: 2%;
+    color: #fff;
+    justify-content: flex-start;
+   
+}
+.Art{
+     background-color: #252d3a;
+    margin-left: 10px;
+    display: flex;
+    border-radius: 10px;
+    height: 240px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    flex-direction: column;
+    text-align: center;
+    width: 150px;
+    padding: 10px;
+   
+}
+
+.artistImage{
+    width: 100px;
+    height: 100px;
+    margin: 10px 0;
+    border-radius: 50%;
+}
+.Profetion{
+    font-size: 12px;
+    font-weight: 300;
+   display: block;
+   margin-top: 7px;
+}
+.username{
+    font-size: 18px;
+}
+.button{
+   background-color: #898b8c;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-weight: 600;
+    transition: all 0.5s;
+    font-size: 15px;
+    font-family: 'Varela Round', sans-serif;
+    cursor: pointer;
+    width: 100px;
+    height: 30px;
+    margin-left: 27px;
+    margin-top: 17px;
+    border-radius: 20px;
+    backdrop-filter: saturate(180%) blur;
+}
+.button:hover{
+    background-color: #fff;
+    color:#252d3a;
+}
+.line{
+    margin-top: 30px;
+}
+#left{
+    margin-left: 800px;
+    background-color: #252d3a;
+    color: #fff;
+    padding: 6px;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.newArtist{
+    width: 95%;
+    margin-top: 10px;
+    border-radius: 10px;
+   margin-left: 30px;
+   align-items: center;
+   background: rgba(37, 45, 58,0.5);
+   backdrop-filter: saturate(180%) blur;
+    height: 50px;
+    
+}
+.pp{
+    display: flex;
+    text-align: center;
+  align-items: center;
+   color: #fff;
+   padding: 0px 20px;
+   justify-content: space-between;
+   
+}
+.location{
+    font-size: 13px;
+    margin-top: 10px;
+}
+.newA-profile{
+    width: 40px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.nameofna{
+    margin-left: 20px;
+}
+.more{
+    width: 100px;
+    margin-top: 5px;
+   
+}
+.pin{
+    position: absolute;
+    margin-left: 135px;
+    font-size: 20px;
+    margin-top: -5px;
+    color: #d4d6d5;
+    opacity: 0.5;
+}
+#space{
+    margin-right: 7px;
+}

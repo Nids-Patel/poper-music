@@ -1,0 +1,19 @@
+.ArtistDashboard{
+    display: flex;
+    flex-direction: row;
+}
+.ArtistNavigation{
+    width: 16.5%;
+    margin: 14px 5px;
+    padding: 5px;
+    height: 94vh;
+    overflow: hidden;
+    border-radius: 10px;
+    background-color:#252d3a;
+}
+.mainContainar{
+    width: 81.9%;
+    height: 100vh;
+   overflow-y: scroll;
+    overflow-x: hidden;
+}

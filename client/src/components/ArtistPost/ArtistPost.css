@@ -1,0 +1,102 @@
+.ArtistPost{
+    width: 60%;
+    margin: 20px;
+  
+}
+.Post{
+    font-size: 35px;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+
+
+}
+.PostContainar{
+    background-color: #d9d9d9;
+    width: 97%;
+    border-radius: 10px;
+    padding: 10px;
+    height: auto;
+}
+.UserPic{
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+    margin-left: 10px;
+    border-radius: 50%;
+}
+.UserName{
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Inter', sans-serif;
+    
+}
+.postcotainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.user{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.timeDate{
+    font-size: 10px;
+    font-weight: 600;
+}
+.PostMore{
+    margin-left: 380px;
+    font-size: 25px;
+    cursor: pointer;
+}
+.mainPostImageCon{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.PostImage{
+    width: 100%;
+    border-radius: 10px;
+}
+.caption{
+    font-size: 18px;
+    font-family: 'PT Sans', sans-serif;
+    margin-left: 10px;
+    font-weight: 600;
+    color: black;
+   
+}
+.hastag{
+    font-size: 13px;
+}
+    
+
+hr{
+    width: 100%;
+    justify-self: center;
+    margin-left: 0px;
+    margin-top: 10px;
+}
+.conIcons{
+    display: flex;
+    align-items: center;
+}
+.likeIcon{
+    font-size: 30px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.commentIcon{
+    font-size: 24px;
+    color: #2b2b2b;
+    margin-left: 5px;
+    cursor: pointer;
+}
+.shareIcon{
+    font-size: 24px;
+    color: #2b2b2b;
+    margin-left: 7px;
+    cursor: pointer;
+    font-weight: 400;
+}

@@ -1,0 +1,49 @@
+.ArtistFriends{
+    width: 345px;
+    background-color: #e6e6e6;
+    height: 460px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.list{
+    overflow-y: scroll;
+    height: 425px;
+}
+.title{
+    font-size: 27px;
+    font-weight: 600;
+   
+}
+.friend{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+.useName{
+    display: flex;
+    flex-direction: column;
+}
+.profiePic{
+    width: 40px;
+    height: 40px;
+}
+.username{
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'PT sans';
+    margin-left: 5px;
+}
+.active{
+    font-size: 10px;
+    margin-left: 10px;
+}
+.moreInfoF{
+    font-size: 20px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.Emoji{
+    margin-left: 140px;
+     
+}

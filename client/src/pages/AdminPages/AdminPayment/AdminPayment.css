@@ -1,0 +1,59 @@
+.mainContainer-P{
+    width: 70%;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    /* background-color: #252d3a; */
+}
+.dashboard{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.searchbar{
+    width: 400px;
+    border: 1.5px solid #252d3a;
+    border-radius: 16px;
+    margin-left: 20px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: -20px;
+}
+.PaySearch{
+    width: 360px;
+    background-color: transparent;
+    outline: none;
+    height: 35px;
+    font-size: 15.5px;
+    font-weight: 600;
+    color: #252d3a;
+    border: none;
+}
+.SearchIcon{
+    margin-left: 7px;
+    font-size: 25px;
+}
+.date-icon{
+    color: #252d3a;
+}
+.dateSelect{
+    margin-left: 70px;
+    margin-top: -20px;
+    display: flex;
+}
+.dateselect{
+    padding: 5px;
+   outline: none;
+   border: none;
+   border-bottom-right-radius: 5px;
+   border-top-right-radius: 5px;
+   font-weight: 600;
+}
+.date-input{
+    background-color: white;
+    padding: 10px 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}

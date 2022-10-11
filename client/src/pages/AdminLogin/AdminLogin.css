@@ -1,0 +1,74 @@
+
+button{
+    background-color: aliceblue;
+}
+.AdminLogin{
+    
+background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1500' height='800' preserveAspectRatio='none' viewBox='0 0 1500 800'%3e%3cg mask='url(%26quot%3b%23SvgjsMask2583%26quot%3b)' fill='none'%3e%3crect width='1500' height='800' x='0' y='0' fill='url(%23SvgjsLinearGradient2584)'%3e%3c/rect%3e%3cpath d='M565.28 112.37 a222.42 222.42 0 1 0 444.84 0 a222.42 222.42 0 1 0 -444.84 0z' fill='rgba(92%2c 219%2c 149%2c 0.74)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M661.0607027475696 680.1012806967789L891.4464908103555 639.4780502895276 850.8232604031042 409.09226222674164 620.4374723403183 449.715492633993z' fill='rgba(92%2c 219%2c 149%2c 0.74)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M668.0340700293764 240.0101808483828L736.4269304835077 450.5017615283871 946.918511163512 382.10890107425575 878.5256507093807 171.61732039425146z' fill='rgba(92%2c 219%2c 149%2c 0.74)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M73.58880722422634 918.0589513780793L202.75734249897914 876.0895501337571 75.21897299511951 703.3214478437891z' fill='rgba(92%2c 219%2c 149%2c 0.74)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M157.71641249256146 550.8789947844446L364.84198581781664 445.3432439341026 259.30623496747467 238.21767060884747 52.18066164221952 343.75342145918944z' fill='rgba(92%2c 219%2c 149%2c 0.74)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1248.376%2c561.669C1272.772%2c560.368%2c1295.523%2c549.21%2c1308.019%2c528.217C1320.813%2c506.725%2c1322.388%2c479.933%2c1309.947%2c458.235C1297.444%2c436.43%2c1273.505%2c424.725%2c1248.376%2c424.198C1222.208%2c423.649%2c1196.374%2c433.574%2c1182.163%2c455.554C1166.672%2c479.515%2c1161.491%2c511.018%2c1176.596%2c535.225C1191.064%2c558.411%2c1221.085%2c563.124%2c1248.376%2c561.669' fill='rgba(92%2c 219%2c 149%2c 0.74)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M687.02 774.8 a199.74 199.74 0 1 0 399.48 0 a199.74 199.74 0 1 0 -399.48 0z' fill='rgba(92%2c 219%2c 149%2c 0.74)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M273.08184504788795 747.4354478908524L299.04847286942356 600.1713836097982 151.7844085883694 574.2047557882627 125.8177807668338 721.4688200693168z' fill='rgba(92%2c 219%2c 149%2c 0.74)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M932.65%2c492.359C960.532%2c491.63%2c984.658%2c474.718%2c998.585%2c450.552C1012.492%2c426.421%2c1013.752%2c397.734%2c1001.639%2c372.654C987.573%2c343.53%2c964.993%2c314.167%2c932.65%2c314.034C900.167%2c313.9%2c877.547%2c343.206%2c862.671%2c372.082C849.237%2c398.16%2c845.71%2c428.806%2c860.462%2c454.162C875.135%2c479.382%2c903.482%2c493.121%2c932.65%2c492.359' fill='rgba(92%2c 219%2c 149%2c 0.74)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1506.429%2c762.285C1562.19%2c762.307%2c1622.832%2c749.183%2c1649.672%2c700.307C1675.857%2c652.625%2c1653.678%2c595.2%2c1622.764%2c550.439C1596.414%2c512.286%2c1552.685%2c496.126%2c1506.429%2c492.899C1451.765%2c489.085%2c1389.234%2c486.873%2c1358.111%2c531.974C1323.96%2c581.463%2c1330.825%2c649.641%2c1363.381%2c700.194C1393.546%2c747.035%2c1450.716%2c762.263%2c1506.429%2c762.285' fill='rgba(92%2c 219%2c 149%2c 0.74)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M722.19 645.49 a169.07 169.07 0 1 0 338.14 0 a169.07 169.07 0 1 0 -338.14 0z' fill='rgba(92%2c 219%2c 149%2c 0.74)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M441.7909639142688 373.8397653980807L394.25488849907623 504.4440592108142 524.8591823118097 551.9801346260067 572.3952577270023 421.37584081327327z' fill='rgba(92%2c 219%2c 149%2c 0.74)' class='triangle-float3'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask2583'%3e%3crect width='1500' height='800' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='11.67%25' y1='-21.87%25' x2='88.33%25' y2='121.87%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient2584'%3e%3cstop stop-color='rgba(5%2c 56%2c 107%2c 1)' offset='0.27'%3e%3c/stop%3e%3cstop stop-color='rgba(5%2c 56%2c 107%2c 1)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    flex-direction: row;
+}
+.login{
+    background: rgba(37, 45, 58,0.8);
+    backdrop-filter: saturate(180%) blur(5px);
+    position: relative;
+    width: 600px;
+    height: 400px;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 140px;
+    margin-left: 360px;
+    text-align: center;
+    color: #fff;
+}
+
+.lable{
+    margin-top: 20px;
+    display: block;
+    font-weight: 600;
+    font-size: 40px;
+}
+.collecter{
+    cursor: pointer;
+    background-color: #f2f2f2;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    width: 200px;
+    height: 15px;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+.email{
+    margin-top: 70px;
+    margin-bottom: 15px;
+}
+.lab{
+    margin-right: 34px;
+}
+.lab1{
+    margin-right: 5px;
+}
+.info{
+    font-size: 10px;
+}
+.L-button{
+    margin-top: 20px;
+    padding: 10px 50px;
+    border-radius: 30px;
+    border: none;
+    background-color: #5cdb95 ;
+    cursor: pointer;
+}
+.L-button:hover{
+    box-shadow:0px 0px 7px  #5cdb95 ;
+}
+.p-logo{
+    width: 200px;
+    height: 200px;
+   position:absolute;
+   margin-top: -160px;
+   margin-left: 580px;
+}
